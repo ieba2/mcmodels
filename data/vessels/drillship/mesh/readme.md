@@ -1,0 +1,1 @@
+Due to the confidentiality agreement with Inocean AS, the mesh files are not publicly available.
