@@ -1,0 +1,12 @@
+POT file 
+-1  		 HBOT 
+ 1 1 		 IRAD, IDFF
+-54		 NPER (periods follow)
+0.3 0.05
+-19      NBETA (directions follow) 
+0. 10.0
+1 		 NBODY  
+CSAD.gdf
+0. 0. 0. 0. 		 XBODY(1-4) 
+ 1  1  1  1  1  1  		    IMODE(1-6) 
+0 		 NEWMDS 
